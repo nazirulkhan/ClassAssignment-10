@@ -1,0 +1,121 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.full-website{
+    text-align: center;
+    color: #fff;
+}
+
+.header{
+    background-color: rgb(75, 75, 175);
+    padding: 20px;
+
+}
+.img-1{
+    height: 40px;
+    width: 70px;
+}
+
+.menu{
+    background-color: red;
+    padding: 10px;
+     
+}
+.menu-list li{
+    display: inline-block;
+    border-right: solid;
+    border-width: 1px;
+    padding: 5px;
+    margin: 5px;  
+}
+.menu-list li:last-child{
+    border: none;
+}
+a{
+    color: #fff;
+    text-decoration: none;
+    
+}
+.service-1{
+    background-image: url(https://i.ibb.co/wzMW2bt/pngtree-simple-creative-background-design-in-the-sky-backgroundcartoonlovelyplanetstarry-skyillustra.jpg);
+    background-size: cover;
+    padding: 150px;
+}
+.contact-1{
+    background-color: green;
+    display: inline;
+    padding: 10px 25px;
+    margin: 10px;
+    text-decoration: none;
+}
+
+.service-2{
+    background-image: url(https://i.ibb.co/HKmM0s1/pngtree-modern-double-color-futuristic-neon-background-image-351866.jpg);
+    background-size: cover;
+    padding:50px 0px;
+ 
+}
+.heading-2{
+    background-color: green;
+    margin: 85px 0px 25px 0px;
+
+}
+.pragraph-2{
+    background-color: yellow;
+    color: #000;
+    margin: 0px 150px 50px 150px;
+}
+.complete{
+    background-color: #000;
+    display: inline;
+    padding: 10px 25px;
+    margin: 10px;
+    text-decoration: none;
+}
+.service-3{
+    background-color: #2ecc71;
+    color: #000;
+    text-align: center;
+}
+.heading-3{
+    padding: 50px;
+}
+
+.img-2{
+    height: 100px;
+    width: auto;
+}
+.sec-1{
+    text-align: left;
+    display: inline-block;
+    margin-bottom: 100px;
+}
+.para-1{
+    display: inline-block;
+    width: 500px;
+    text-align: left;
+    margin-left: 175px;
+}
+.sec-2{
+    margin-right: 355px;
+}
+.footer{
+    background-color: rgb(41, 41, 122) ;
+    padding: 15px;
+    
+}
+.social-link li{
+    display: inline-block;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 1px;
+    padding: 10px;
+    margin: 5px;
+}
+
+ 
+
+
+
